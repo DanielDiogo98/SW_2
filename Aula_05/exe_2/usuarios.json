@@ -7,7 +7,7 @@
         },
         {
             "id": 2,
-            "nombre": "Maria",
+            "nome": "Maria",
             "email": "maria@example.com"
         }
     ]
